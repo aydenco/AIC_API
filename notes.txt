@@ -1,0 +1,9 @@
+Don't need authentication
+
+Need some sort of window to display info
+
+Do I display info like in the pokemon Python API
+
+How do I use the switch case function for this
+
+How do headers differ/ AIC-User-Agent
